@@ -12,3 +12,16 @@ img {
 .card img {
     height: 200px;
 }
+
+form {
+  margin-top: 1rem;
+  padding: 2rem;
+}
+
+footer {
+  padding: 1rem;
+  margin-top: .5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+
+}
